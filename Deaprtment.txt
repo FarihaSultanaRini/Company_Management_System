@@ -1,0 +1,5 @@
+( 'BG', 'Genuine Leather Bags', '1&2-PD'),
+ ('LW', 'Genuine Leather Wallets' ,  '1&2-PD'),
+ ('BT', 'Genuine Leather Belt', '1&2-PD'),
+ ('AS', 'Genuine Leather Accessories', '1&2-PD'),
+ ('JT','Genuine (Leather Jacket' , '1&2-PD');

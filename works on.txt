@@ -1,0 +1,24 @@
+('P1','BG','360 hours'),
+('P2','BG','360 hours'),
+('P3','BG','360 hours'),
+('P4','BG','360 hours'),
+('RD1','BG','360 hours'),
+('RD2','BG','360 hours'),
+('RD3','BG','360 hours'),
+('P1','LW','240 hours'),
+('P2','LW','240 hours'),
+('P3','LW','240 hours'),
+('P4','LW','240 hours'),
+('RD1','LW','240 hours'),
+('RD2','LW','240 hours'),
+('RD3','LW','3240 hours'),
+('P1','JT','360 hours'),
+('P2','JT','360 hours'),
+('P3','JT','360 hours'),
+('P4','JT','360 hours'),
+('RD1','JT','360 hours'),
+('RD2','JT','360 hours'),
+('RD3','JT','360 hours');
+
+
+
